@@ -1,0 +1,40 @@
+.movieListContainer {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
+
+.movieContainer {
+  margin: 25px 0;
+}
+
+.divider {
+  display: block;
+  width: 100%;
+  border-top: 1px solid #000;
+}
+
+.movie {
+  margin-top: 50px;
+}
+
+.movieInfo {
+  margin-left: 20px;
+  overflow-y: auto;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.movieImg {
+  width: 250px;
+  height: 375px;
+}
+
+.movieTitle {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.movieSummary {
+  margin-top: 20px;
+}

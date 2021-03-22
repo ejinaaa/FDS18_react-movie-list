@@ -1,0 +1,17 @@
+.btn {
+  border: 3px solid #000;
+  background-color: transparent;
+  outline: none;
+
+  &:focus {
+    background-color: #000;
+
+    i {
+      color: #fff;
+    }
+  }
+
+  i {
+    pointer-events: none;
+  }
+}
