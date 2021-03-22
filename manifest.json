@@ -1,0 +1,8 @@
+{
+  "short_name": "Movie",
+  "name": "Movie",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000",
+  "background_color": "#ffffff"
+}
